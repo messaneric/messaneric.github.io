@@ -297,7 +297,7 @@ footer p{
 /* ************************** Media query *************** */
 /* ************************** Media query *************** */
 
-@media screen and (max-width: 1080px) {
+@media screen and (min-width: 1080px) {
         *{
                 padding: 0;
                 margin: 0;
