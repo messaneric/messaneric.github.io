@@ -99,7 +99,7 @@ nav ul li:hover ul li {
 #imagePrincipale {
         padding: 120px;
         background-size: cover;
-        height: 130px;
+        height: 330px;
         background-image: url(./travel_media/Image_principal.jpeg);
 }
 
@@ -365,7 +365,7 @@ footer p {
 
         #logo a {
                 color: rgb(227, 52, 52);
-                font-size: 15px;
+                font-size: 10px;
         }
 
         #logo {
