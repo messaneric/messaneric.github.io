@@ -99,7 +99,7 @@ nav ul li:hover ul li {
 #imagePrincipale {
         padding: 120px;
         background-size: cover;
-        height: 330px;
+        height: 130px;
         background-image: url(./travel_media/Image_principal.jpeg);
 }
 
