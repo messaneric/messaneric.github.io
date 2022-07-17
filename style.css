@@ -123,6 +123,10 @@ h1 {
         padding: 30px 50px;
 }
 
+h1 span{
+        color:red
+}
+
 #imagePrincipale p {
         text-align: center;
         color: #faf6f6;
